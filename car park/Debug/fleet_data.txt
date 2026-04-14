@@ -1,0 +1,43 @@
+6
+Car
+1000
+Toyota Camry
+2020
+5
+4
+Sedan
+Car
+1001
+BMW X5
+2022
+0
+4
+SUV
+Truck
+1003
+Volvo FH
+2021
+0
+20
+3
+Truck
+1004
+MAN TGX
+2020
+10
+25
+4
+Motorcycle
+1005
+Yamaha R1
+2022
+0
+998
+0
+Motorcycle
+1006
+Harley Davidson
+2021
+0
+1200
+1
